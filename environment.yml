@@ -1,0 +1,7 @@
+name: my_environment  # Replace with your environment name
+channels:
+  - defaults
+dependencies:
+  - python=3.5
+  - pycroscopy=0.59.8
+  - scipy=0.18.1
